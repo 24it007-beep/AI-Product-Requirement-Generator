@@ -36,11 +36,3 @@ pip install -r requirements.txt
 
 ```env
 GROQ_API_KEY=your_api_key_here
-## How to Run
-
-1. Clone the repository.
-
-2. Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
