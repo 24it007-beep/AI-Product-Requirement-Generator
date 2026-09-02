@@ -1,22 +1,13 @@
 # AI Product Requirement Generator
 
-An AI-powered Python application that converts business requirements into structured product requirements using AI.
+An AI-powered application that converts business requirements into structured product requirements.
 
 ## Features
 
-- Business requirement analysis
-- AI-powered product requirement generation
-- Functional and non-functional requirements
-- Risk and scalability analysis
-- Structured Product Requirements Document (PRD)
-
-## Tech Stack
-
-- Python
-- Groq API
-- python-dotenv
-- Git
-- GitHub
+- Analyzes business requirements using AI
+- Generates structured product requirements
+- Uses Groq API for AI processing
+- Simple Python-based implementation
 
 ## Project Structure
 
